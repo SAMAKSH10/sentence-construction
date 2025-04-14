@@ -127,8 +127,3 @@ Built with ❤️ by [Your Name](https://github.com/your-username)
 ## 📄 License
 
 MIT License. Feel free to use and modify for personal or commercial use.
-```
-
----
-
-Let me know if you'd like this file downloaded or need help adding badges or interactive images.
